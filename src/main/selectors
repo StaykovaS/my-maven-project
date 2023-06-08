@@ -1,0 +1,25 @@
+iSkilo icon
+xPath: '//img[@id = "homeIcon"]'
+CSS:   '#homeIcon'
+
+home button
+xPath: '//a[@id= "nav-link-home"]'
+CSS:   '#nav-link-home'
+
+login link
+xPath: '//a[@id= "nav-link-login"]'
+CSS:   '#nav-link-login'
+
+Sign in header
+xPath: '//p[@class= "h4 mb-4"]'
+CSS:   'p.h4'
+
+username/email field
+xPath: '//input[@id= "defaultLoginFormUsername"]'
+CSS:   '#defaultLoginFormUsername'
+
+
+
+
+
+
