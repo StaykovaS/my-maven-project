@@ -18,6 +18,40 @@ username/email field
 xPath: '//input[@id= "defaultLoginFormUsername"]'
 CSS:   '#defaultLoginFormUsername'
 
+password field
+xPath: '//input[@id= "defaultLoginFormPassword"]'
+CSS:   '#defaultLoginFormPassword'
+
+checkbox remember me
+xPath: '//input[@type = "checkbox"]'
+CSS:   'input.remember-me-button'
+
+remember me
+xPath:  '//div/span'
+CSS:    'div > span '
+
+Sign in button
+xPath: '//button[@id="sign-in-button"]'
+CSS:   '#sign-in-button'
+
+Not a member?
+xPath:  '//p/span'
+CSS:    'p>span'
+
+Register
+xPath:  '//p/a'
+CSS:    'p>a'
+
+
+
+
+
+
+
+
+
+
+
 
 
 
