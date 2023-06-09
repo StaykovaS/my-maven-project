@@ -46,6 +46,26 @@ Version
 xPath:  '//div/div[@class="col-5 col-lg-3 footer-container"]'
 CSS:    '.col-5'
 
+Technologies
+xPath:  '//div/h6'
+CSS:    'div>h6'
+
+Image TS
+xPath: '//div/img[@src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"]'
+CSS:   'div>img[src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"]'
+
+Image A
+xPath: '//div/img[@src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"]'
+CSS:   'div>img[src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"]'
+
+Image
+xPath: '//div/img[@src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg"]'
+CSS:   'div>img[src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg"]'
+
+
+
+
+
 
 
 
