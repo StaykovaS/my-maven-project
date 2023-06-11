@@ -1,0 +1,16 @@
+logo:
+XPath: //*[@id="homeIcon"]')
+Css: #homeIcon
+
+NavBar:
+XPath: //*[@id="navbarColor01"]/ul/li
+Css:#navbarColor01 li
+
+Username Input
+XPath: //input[@id="defaultLoginFormUsername"]
+Css: #defaultLoginFormUsername
+
+SignIn
+
+XPath://*[@id="sign-in-button"]
+Css:#sign-in-button
